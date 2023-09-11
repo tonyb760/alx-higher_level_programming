@@ -64,5 +64,4 @@ JavaScript is a programming language, and like most programming languages, it ha
 $ sudo apt install -y node
 
 ```
-## Author
-#### ___[UDO INNOCENT CHARLES](https://github.com/Innocentsax)___
+
